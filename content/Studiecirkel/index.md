@@ -1,5 +1,5 @@
 ---
-title: Studiecirkel - innehåll
+title: Studiecirkel
 draft: false
 tags:
 ---
